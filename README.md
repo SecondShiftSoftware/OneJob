@@ -55,4 +55,4 @@ Future versions of One Job may add features that change how data is handled, suc
 
 ## Contact
 
-If you have a question about this policy or your privacy, email me at <onejobapp@icloud.com>.
+If you have a question about this policy or your privacy, email me at <OneJobApp@icloud.com>.
