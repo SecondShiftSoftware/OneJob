@@ -1,6 +1,6 @@
 # One Job privacy policy
 
-**Draft.** Last updated 24 October 2026.
+Last updated 24 October 2026.
 
 One Job is an iPhone app that hands you one household maintenance job at a time. It's made by Ben Hoare-Ward, an independent developer in Australia ("I" and "me" below).
 
